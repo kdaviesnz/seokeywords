@@ -1,5 +1,5 @@
 {
-    "name": "kdaviesnz/fleschkincaid",
+    "name": "kdaviesnz/seokeywords",
     "type": "component",
     "description": "SEO keywords tool",
     "minimum-stability": "dev",
@@ -19,7 +19,6 @@
     ],
     "require": {
         "php": "~7.0",
-        "davechild/textstatistics": "1.0.1",
         "guzzlehttp/guzzle": "6.3.0"
     },
     "require-dev": {
