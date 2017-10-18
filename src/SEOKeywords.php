@@ -4,7 +4,7 @@ declare(strict_types=1);
 namespace kdaviesnz\seokeywords;
 
 
-class SEOKeywords implements \ISEOKeywords
+class SEOKeywords implements ISEOKeywords
 {
 
     /**
